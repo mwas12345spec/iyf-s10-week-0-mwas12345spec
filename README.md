@@ -5,7 +5,7 @@
 - I'm looking to collaborate on  beginner-friendly open source projects.
 ## Skills I'm Building
 - Git and GitHub
--  Python, HTML/CSS, Machine Learning
+-  Python,Java, HTML/CSS, Machine Learning
 ## How to Reach Me
 - Email: maddisonkiarie@gmail.com  
   
