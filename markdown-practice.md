@@ -1,4 +1,4 @@
-**My Learning Goals ** This SemesterI used **confidence** to present my idea, added *creativity* to make it engaging, and tested it with `print("Hello, world!")(https://github.com/your-username)
+**My Learning Goals ** This SemesterI used **confidence** to present my idea, added *creativity* to make it engaging, and tested it with `print("Hello, world!")(https://github.com/mwas12345spec)
 (https://github.com/mwas12345spec)
 (https://developer.mozilla.org/)
 # My Learning Goals and Git Commit Steps
@@ -17,7 +17,7 @@
  Stage the changes:
    ```bash
    git add .
-git commit -m "Your commit message"
+git commit -m "markdown practice"
 git push
 ## Tools I Use / Want to Learn
 
@@ -27,20 +27,20 @@ git push
 | Visual Studio Code | Code editor for writing and debugging programs | https://code.visualstudio.com/ |
 ##  My Learning Task List
 
- [x] Set up Git and GitHub
- [x] Create my first repository
- [ ] Learn basic Git commands (`git add`, `git commit`, `git push`)
- [ ] Build a small web project
- [ ] Practice java daily
- [ ] Contribute to an open-source project
+ [x] to Set up Git and GitHub
+ [x] to Create my first repository
+ [ ] to Learn basic Git commands (`git add`, `git commit`, `git push`)
+ [ ] to Build a small web project
+ [ ] to Practice java daily
+ [ ] to Contribute to an open-source project
 # Simple Python program to greet a user
 
 def greet(name):
-    return f"Hello, {name}! Welcome to my GitHub profile."
+    return f"Hello, {mark}! Welcome to my GitHub profile."
 
 if __name__ == "__main__":
     user_name = "Developer"
-    print(greet(user_name))
+    print(greet(mwas12345spec))
 > "Consistency is more important than perfection. Small daily improvements lead to big results over time."
   About Me
 
