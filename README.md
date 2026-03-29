@@ -6,6 +6,12 @@
 ## Skills I'm Building
 - Git and GitHub
 -  Python,Java, HTML/CSS, Machine Learning
+
+   ##  Projects
+-  Calculator App
+-  Student Grade Tracker
+-  To-Do List App
+
 ## How to Reach Me
 - Email: maddisonkiarie@gmail.com  
   
