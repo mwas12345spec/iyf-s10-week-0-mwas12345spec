@@ -2,6 +2,21 @@
 **My Learning Goals ** This SemesterI used **confidence** to present my idea, added *creativity* to make it engaging, and tested it with `print("Hello, world!")(https://github.com/mwas12345spec)
 (https://github.com/mwas12345spec)
 (https://developer.mozilla.org/)
+
+# Markdown Practice
+
+## Task List
+- [x] Learn Git
+- [x] Learn GitHub
+- [ ] Build Projects
+
+##  Link
+- [GitHub](https://mwas12345spec.github.io/iyf-s10-week-0-mwas12345spec/)
+
+##  Code
+```python
+print("Hello World")
+
 ##  Things I Want to Learn
 
  Learn web development
