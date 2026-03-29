@@ -1,17 +1,20 @@
-# Hi, I'm mark mwangi 
-## About Me
-- I'm currently learning  im  learning program .
-- I'm interested in building programs.
-- I'm looking to collaborate on  beginner-friendly open source projects.
-## Skills I'm Building
-- Git and GitHub
--  Python,Java, HTML/CSS, Machine Learning
+#  Hi, I'm Mark Mwangi
 
-   ##  Projects
+##  About Me
+-  Learning Web Development
+-  Currently learning JavaScript & GitHub
+-  Goal: Become a full-stack developer
+
+##  Skills
+- HTML
+- CSS
+- JavaScript (Beginner)
+- Git & GitHub
+
+##  Projects
 -  Calculator App
 -  Student Grade Tracker
 -  To-Do List App
 
-## How to Reach Me
-- Email: maddisonkiarie@gmail.com  
-  
+##  Contact Me
+- GitHub: https://github.com/mwas12345spec
